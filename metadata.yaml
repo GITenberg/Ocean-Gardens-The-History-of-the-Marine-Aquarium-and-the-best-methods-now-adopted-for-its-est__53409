@@ -1,0 +1,29 @@
+_repo: Ocean-Gardens-The-History-of-the-Marine-Aquarium-and-the-best-methods-now-adopted-for-its-est__53409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Humphreys, Henry Noel
+    aliases:
+    - Humphreys, H. Noel (Henry Noel)
+    - Humphreys, H. N.
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '42986'
+    url: http://www.gutenberg.org/2009/agents/42986
+description: ''
+gutenberg_issued: '2016-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aquariums'
+- !lcc 'QH'
+- GITenberg
+title: 'Ocean Gardens. The History of the Marine Aquarium
+
+  and the best methods now adopted for its establishment and preservation.'
+url: http://www.gutenberg.org/ebooks/53409
